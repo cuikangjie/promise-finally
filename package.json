@@ -1,5 +1,5 @@
 {
-  "name": "promise-finally",
+  "name": "kin-promise-finally",
   "version": "1.0.0",
   "description": "promise finally",
   "main": "index.js",
